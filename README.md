@@ -8,11 +8,11 @@ In my 14+ years of experience I've actively been working in C#, Go, Node.js, Typ
 
 ## Programming Languages I have knowledge on
 - Pascal (It was my first programming language when I was on high school)
-- Visual Basic 
+- Visual Basic 6.0
 - Delphi (Evolved from Object Oriented Pascal to this)
 - C++
-- Visual Basic .Net
-- C#
+- Visual Basic .Net (ASP.Net Webforms & Winforms)
+- C# (.Net Framework & .Net Core)
 - HTML, CSS
 - JavaScript (Including jQuery, jQuery UI, Knockout among others)
 - TypeScript
