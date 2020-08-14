@@ -22,6 +22,8 @@ In my 14+ years of experience I've actively been working in C#, Go, Node.js, Typ
 ## I'm currently learning
 - Machine Learning (Jupyter Notebooks, Python)
 
+## Repositories
+- https://gitlab.com/diegoortizmatajira
 
 <!--
 **diegoortizmatajira/diegoortizmatajira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
